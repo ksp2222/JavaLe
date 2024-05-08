@@ -1,0 +1,14 @@
+package chap02_variables;
+
+public class _xx_1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a = 116;
+		int b = 66000;
+		int add = a+b;
+		
+
+	}
+
+}

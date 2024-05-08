@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="chap06_method.calc.ReturnCalculator"/>
+    <fullyQualifiedTypeName name="chap06_method.calc.AccessModifierCalculator"/>
+    <fullyQualifiedTypeName name="chap06_method.calc.ParameterCalculator"/>
+    <fullyQualifiedTypeName name="chap06_method.calc.CompleteCalculator"/>
+    <fullyQualifiedTypeName name="chap06_method.score.Score"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="chap06_method.calc.OverloadingCalculator"/>
+</qualifiedTypeNameHistroy>

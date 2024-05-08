@@ -1,0 +1,92 @@
+package chap03_operator;
+
+public class _03_Logical {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		// 논리곱(&&): 양쪽 항 모두 true여야 리턴.
+		result = num < num2 && num3 / num4 == 0;
+		System.out.println(result);
+		
+		// 논리합(||): 한쪽 항만 true
+
+	}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	  
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

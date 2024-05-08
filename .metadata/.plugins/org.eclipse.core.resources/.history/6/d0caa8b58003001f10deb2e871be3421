@@ -1,0 +1,21 @@
+package chap02_variables;
+
+public class _xx_1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a = 116;
+		int b = 66000;
+		int mult = a*b;
+		
+		System.out.println(mult);
+		
+		int c = 180;
+		int d = 66000;
+		int mult1 = c*d;
+		
+		System.out.println(mult1);
+
+	}
+
+}
