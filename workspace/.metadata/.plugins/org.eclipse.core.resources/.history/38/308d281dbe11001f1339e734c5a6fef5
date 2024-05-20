@@ -1,0 +1,8 @@
+package chap21_multithread.threads;
+
+public class DaemonThread {
+	public void save() {
+		System.out.println("저장되었습니다.");
+	}
+
+}

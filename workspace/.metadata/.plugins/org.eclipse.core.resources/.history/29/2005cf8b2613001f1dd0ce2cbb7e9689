@@ -1,0 +1,7 @@
+package chap22_lambda.basiclambda;
+
+@FunctionalInterface
+public interface Mul {
+	void multiplay(int a, int b);
+
+}

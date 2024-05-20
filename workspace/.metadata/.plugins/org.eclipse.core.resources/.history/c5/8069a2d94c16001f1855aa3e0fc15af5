@@ -1,0 +1,20 @@
+package chap24_dataio;
+
+import java.io.FileWriter;
+import java.io.Writer;
+
+public class _05_Writer {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		// 1. Writer 객체 생성
+		// Writer는 추상클래스로 객체를 생성할 수 없어서 writer를 상속받은 자식클래스의 객체를 사용한다.
+		Writer writer = new FileWriter(
+				"C:\\Users\\비트캠프\\Desktop\\workspace\\JavaProgramming\\src\\chap24_dataio\\Writer.txt"
+				);
+		
+		// 2 뮨자 하나씩 출력
+
+	}
+
+}

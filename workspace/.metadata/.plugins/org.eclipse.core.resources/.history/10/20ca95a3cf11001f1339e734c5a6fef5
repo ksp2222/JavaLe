@@ -1,0 +1,5 @@
+package chap99_homework11;
+
+public class Basic1 {
+Thread thread = new Thread(new Runnable());
+}

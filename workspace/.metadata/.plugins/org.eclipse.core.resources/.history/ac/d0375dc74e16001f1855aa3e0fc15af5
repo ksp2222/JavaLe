@@ -1,0 +1,21 @@
+package chap24_dataio;
+
+import java.io.IOException;
+
+public class _06_Reader {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		try {
+			// 1. Reader 객체 생성
+			Reader reader = new FileReader(
+					"C:\\Users\\비트캠프\\Desktop\\workspace\\JavaProgramming\\src\\chap24_dataio/Writer.txt"
+					);
+			
+		} catch(IOException ie) {
+			System.out.println(ie.getMessage());
+		}
+
+	}
+
+}

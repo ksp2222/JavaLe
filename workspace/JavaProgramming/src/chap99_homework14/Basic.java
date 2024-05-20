@@ -1,0 +1,22 @@
+package chap99_homework14;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Basic {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List<Integer> intList = new ArrayList<>();
+		for(int i = 0; i < 10; i++) {
+			intList.add((int) (Math.random() * 10) + 1);
+			
+		}
+		
+		intList.stream()
+		       .map(num -> num * 3)
+		       .forEach(System.out::println);
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package chap99_homework10;
+
+public class Call2 {
+
+
+	    public <T> void add2(T t3, T t4) {
+	    	Integer re2 = Basic2.add2(t3, t4);
+	        System.out.println(re2);
+	    }
+}

@@ -1,0 +1,19 @@
+기본생성자
+주로 대상을 알수없을때 사용
+
+매개변수가 있는 생성자
+주로 대상이 명확할때 사용
+
+java 17 버전 미만일 때
+List<String> strList = new ArrayList<String>();
+
+java 17버전 이상일 때
+List<String> strList = new ArrayList<>();
+<>
+원래 이안에 타입을 써줘야 하는데
+자바 업데이트해서 안써도 알아서 컴파일함
+
+int와 Integer의 차이에 대해서 설명해보시오
+
+
+

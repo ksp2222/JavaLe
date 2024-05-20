@@ -1,0 +1,10 @@
+package chap99_homework10;
+
+public class Call2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

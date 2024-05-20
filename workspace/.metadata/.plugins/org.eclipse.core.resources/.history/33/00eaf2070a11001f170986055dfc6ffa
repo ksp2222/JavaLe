@@ -1,0 +1,10 @@
+package chap99_homework10;
+
+public class Basic2 {
+	public static <T> String add(T t1, T t2) {
+		return String.valueOf(t1) + String.valueOf(t2);
+	}
+	String result1 = add(10, 20);
+	
+
+}

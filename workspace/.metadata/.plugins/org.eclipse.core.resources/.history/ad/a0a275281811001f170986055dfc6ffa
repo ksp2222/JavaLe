@@ -1,0 +1,16 @@
+package chap99_homework10;
+
+public class Call {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int t1 = 20;
+		int t2 = 30;
+				
+		Basic2.add(t1, t2);
+	
+
+	}
+
+}

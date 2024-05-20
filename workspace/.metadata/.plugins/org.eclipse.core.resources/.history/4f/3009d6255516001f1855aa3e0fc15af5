@@ -1,0 +1,5 @@
+package chap24_dataio.phoneinfo;
+
+public class PhoneInfo {
+
+}

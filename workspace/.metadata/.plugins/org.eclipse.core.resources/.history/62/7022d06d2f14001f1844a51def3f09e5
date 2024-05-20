@@ -1,0 +1,19 @@
+package chap99_homework14;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+public class Basic3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List<String> stringList = new ArrayList<>();
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("문자열 10개 입력:");
+		
+
+	}
+
+}

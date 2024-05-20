@@ -1,0 +1,5 @@
+김시표님 개인 자바프로젝트 경로(C:\lecture\Java)
+C:\lecture\Java -> 개인 github 주소 : https://github.com/ksp2222/JavaLe.git 
+
+팀 프로젝트 경로(C:\Users\비트캠프\Documents\Team_homework)
+C:\Users\비트캠프\Documents\Team_homework -> 팀 github 주소 : https://github.com/Bitcamp04/HomeworkShare.git

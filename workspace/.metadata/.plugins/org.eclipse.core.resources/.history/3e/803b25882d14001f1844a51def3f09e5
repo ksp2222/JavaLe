@@ -1,0 +1,9 @@
+package chap99_homework14;
+
+import java.util.Scanner;
+
+public class Basic1 {
+	Scanner sc = new Scanner(System.in);
+	List<String> stringList = new Arraylist<>();
+
+}

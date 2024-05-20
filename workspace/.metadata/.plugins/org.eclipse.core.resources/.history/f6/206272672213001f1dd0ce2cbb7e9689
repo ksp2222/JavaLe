@@ -1,0 +1,7 @@
+package chap22_lambda;
+
+@FunctionalInterface
+public interface Add {
+	void add();
+
+}

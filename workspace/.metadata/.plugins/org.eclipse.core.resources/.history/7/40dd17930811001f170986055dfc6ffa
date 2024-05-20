@@ -1,0 +1,6 @@
+package chap99_homework10;
+
+public class Basic2 {
+	public static <T> String add(T t1, T t2);
+
+}

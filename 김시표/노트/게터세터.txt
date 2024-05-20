@@ -1,0 +1,20 @@
+제네릭이 어떤의미인지 명확히 알고가자
+
+getter
+return.(private은 반드시 게터 필요
+
+setter
+this.
+
+Tostring
+Override
+
+Map을 매개변수로 받아서 value가 최대값인 key를 리턴하는 제네릭 메소드를 구현하세요. 
+	public static <K, V> K getMaxMap(Map<K, V> map) map이 열려있으니(리턴) map을 지정
+
+와일드카드
+<?> 라고생각하면됨
+
+red 255
+
+그린블루엔 00

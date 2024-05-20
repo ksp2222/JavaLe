@@ -1,0 +1,18 @@
+package chap24_dataio;
+
+public class _10_PrintStream {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		try {
+			// 1, PrintWriter 객체 생성
+			PrintWriter printwriter = new PrintWriter(
+					new FileWriter(
+							"C:/Users/비트캠프/Desktop/workspace/JavaProgramming/src/chap24_dataio/PrintStream.txt"
+							)
+					)
+		}
+
+	}
+
+}

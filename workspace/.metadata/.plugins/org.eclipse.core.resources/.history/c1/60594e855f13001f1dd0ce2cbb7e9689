@@ -1,0 +1,5 @@
+package chap99_homework13.PrintNumber;
+
+public interface PrintNumber {
+
+}

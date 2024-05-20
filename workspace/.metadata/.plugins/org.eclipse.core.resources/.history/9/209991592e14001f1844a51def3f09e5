@@ -1,0 +1,24 @@
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+public class Basic1 {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        List<String> stringList = new ArrayList<>();
+
+        // 사용자로부터 10개의 문자열 입력 받기
+        System.out.println("10개의 문자열을 입력하세요:");
+        for (int i = 0; i < 10; i++) {
+            String input = scanner.nextLine();
+            stringList.add(input);
+        }
+
+        // 문자열의 길이가 5 이상인 문자열만 출력
+        stringList.stream() // 스트림으로 변환
+                .filter(s -> s.length() >= 5) // 길이가 5 이상인 문자열 필터링
+                .forEach(System.out::println); // 해당하는 문자열 출력
+
+        scanner.close();
+    }
+}

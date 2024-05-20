@@ -1,0 +1,13 @@
+package chap23_stream;
+
+import java.util.ArrayList;
+
+public class _20_ParellelStreamSpeed {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List<Long> long list = new ArrayList<>();
+
+	}
+
+}
